@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 flask
 flask-cors
+=======
+flask
+flask-cors
+>>>>>>> b265a0f33ea689819e033981877a1ecc59ca4910
 requests
